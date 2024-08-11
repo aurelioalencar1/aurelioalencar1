@@ -20,7 +20,7 @@ Estou iniciando minha jornada no mundo da programação e estou entusiasmado em 
 </div>
 
 
-![Snake animation](https://github.com/aurelioalencar1/aurelioalencar1/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
