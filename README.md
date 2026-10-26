@@ -1,6 +1,6 @@
 # Olá, Eu sou o Aurélio Alencar! 👋
 
-Estou iniciando minha jornada no mundo da programação e estou entusiasmado em aprender e crescer na área de tecnologia. Atualmente, estou focado em estudar **HTML**, **CSS**, **JavaScript** e **Python**. 
+Estou iniciando minha jornada no mundo da programação e estou entusiasmado em aprender e crescer na área de tecnologia. Atualmente, estou focado em estudar, **Rust** e **Iky**. 
 
 ## Tecnologias que estou estudando:
 <div style="dispplay: inline_block"><br />
