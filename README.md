@@ -14,15 +14,6 @@ Atualmente, dedico meus estudos ao ecossistema **Rust** e ao desenvolvimento da 
   * **Arquitetura:** Compilador *Single Pass* estrito com parser LL(1), sem AST, sem IR e sem LLVM.
   * **Recursos:** Metaprogramação via `comptime` / `reflect` tipado e *Verified External Bindings* (VEB).
 
-<br />
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span title="IKY Programming Language" style="font-size: 38px;">🐦‍🔥</span>
-</div>
-
-<br />
 
 ---
 
