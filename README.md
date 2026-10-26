@@ -1,27 +1,41 @@
-# Olá, Eu sou o Aurélio Alencar! 👋
+# Olá, eu sou o Aurélio Alencar! 👋
 
-Estou iniciando minha jornada no mundo da programação e estou entusiasmado em aprender e crescer na área de tecnologia. Atualmente, estou focado em estudar, **Rust** e **Iky**. 
+Desenvolvedor focado em programação de baixo nível, engenharia de linguagens e arquitetura de compiladores. 
 
-## Tecnologias que estou estudando:
-<div style="dispplay: inline_block"><br />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</div>
-<br />
-## GitHub Estatísticas:
-
-<div><br />
-<a href="https://github.com/aurelioalencar1">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelioalencar1&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=aurelioalencar1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
-
-
+Atualmente, estou me aprofundando em **Rust** e desenvolvendo a minha própria linguagem de programação, a **IKY** 🦅.
 
 ---
-⭐️ Feito por [Aurélio Alencar](https://github.com/aurelioalencar1)
+
+### 🚀 Foco Atual & Tecnologias
+
+* 🦀 **Rust** — Uso principal para desenvolvimento de sistemas e construção da infraestrutura do compilador.
+* 🦅 **IKY** — Projeto de linguagem focada em gerenciamento seguro de memória via regiões léxicas e arenas.
+
+<br />
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span title="IKY Programming Language" style="font-size: 38px;">🦅</span>
+</div>
+
+<br />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/aurelioalencar1">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aurelioalencar1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/aurelioalencar1">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelioalencar1&layout=compact&theme=dracula" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  ⭐️ Feito por <a href="https://github.com/aurelioalencar1">Aurélio Alencar</a>
+</div>
