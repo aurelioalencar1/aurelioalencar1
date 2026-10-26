@@ -2,14 +2,17 @@
 
 Desenvolvedor focado em programação de baixo nível, engenharia de linguagens e arquitetura de compiladores. 
 
-Atualmente, estou me aprofundando em **Rust** e desenvolvendo a minha própria linguagem de programação, a **IKY** 🐦‍🔥.
+Atualmente, dedico meus estudos ao ecossistema **Rust** e ao desenvolvimento da **IKY** 🐦‍🔥, minha própria linguagem de sistemas.
 
 ---
 
 ### 🚀 Foco Atual & Tecnologias
 
-* 🦀 **Rust** — Uso principal para desenvolvimento de sistemas e construção da infraestrutura do compilador.
-* 🐦‍🔥 **IKY** — Projeto de linguagem focada em gerenciamento seguro de memória via regiões léxicas e arenas.
+* 🦀 **Rust** — Linguagem principal para desenvolvimento de sistemas e construção da infraestrutura do compilador (`ikyc`).
+* 🐦‍🔥 **IKY** — Linguagem de baixo nível focada em desempenho extremo e segurança por construção:
+  * **Modelo de Memória:** Arenas Nativas e Regiões Léxicas (sem GC e sem Ownership tradicional).
+  * **Arquitetura:** Compilador *Single Pass* estrito com parser LL(1), sem AST, sem IR e sem LLVM.
+  * **Recursos:** Metaprogramação via `comptime` / `reflect` tipado e *Verified External Bindings* (VEB).
 
 <br />
 
